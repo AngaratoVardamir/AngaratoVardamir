@@ -1,4 +1,4 @@
-### Olá Eu sou Gustavo Augusto 🤓
+### 🐦‍⬛ Olá Eu sou Gustavo Augusto 🤓
 
 [![Portifólio](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://angaratovardamir.github.io/Portifolio/)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@AngaratoVardamir)
